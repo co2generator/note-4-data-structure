@@ -14,7 +14,7 @@ WPL = \sum_{k=1}^{n}w_kl_k
 $$
 The following shows three simple cases:
 
-<img src="/Users/co2maker/Desktop/note-4-data-structure/figure/ht-wpl.png" style="zoom:50%" />
+<img src="./figure/ht-wpl.png" style="zoom:50%" />
 
 And such trees that have the minimum *WPL* are **Huffman tree**, or it is also referred as *optimal binary tree*.
 
@@ -83,7 +83,7 @@ And a supplementary knowledge is:
 
 Based on this, if we set the wight of each leaf node as its frequency, then we actually want to obtain a binary tree of which the *WPL* is minimum. And it definitely is Huffman Tree. Thus,  we can construct the Huffman tree as:
 
-<img src="/Users/co2maker/Desktop/note-4-data-structure/figure/ht-example.png" style="zoom:50%" />
+<img src="./figure/ht-example.png" style="zoom:50%" />
 
 Then we have,
 

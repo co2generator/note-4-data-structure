@@ -2,7 +2,7 @@
 
 Binary Search Tree (BST) is also called **sorted binary tree**. It is a rooted binary tree data structure whose internal nodes each store a key greater than all the keys in the node’s left subtree and less than those in its right subtree.  A binary tree is a type of data structure for storing data such as numbers in an organized way. Binary search trees allow binary search for fast lookup, addition and removal of data items, and can be used to implement dynamic sets and lookup tables. The order of nodes in a BST means that each comparison skips about half of the remaining tree, so the whole lookup takes time proportional to the binary logarithm of the number of items stored in the tree. 
 
-<img src="/Users/co2maker/Desktop/note-4-data-structure/figure/BST.png" style="zoom:50%" />
+<img src="./figure/BST.png" style="zoom:50%" />
 
 In the above diagram, (a) shows a binary tree and (b) shows a binary search tree. In general, for BST, time complexity are:
 
